@@ -1,0 +1,5 @@
+export const NETWORK_ERROR_CODE = "ERR_NETWORK";
+export enum HTTP_CODE {
+  BAD_REQUEST = 400,
+  INTERNAL_SERVER_ERROR = 500,
+}
